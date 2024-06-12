@@ -1,3 +1,6 @@
+## Overview
+[![YT screenshot](screenshot.png)](https://www.youtube.com/watch?v=CTAcCmC0gYk)
+
 ## Installation and Evaluation
 For installation and evaluation instructions please check README_DPVO.md, as the instructions are the same for both setups.
 
